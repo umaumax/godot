@@ -63,3 +63,9 @@ digraph "Call graph" {
 }
 ```
 
+## TODO
+* add `-i` replace option
+
+## NOTE
+* maybe `<` and `>` must be escaped
+
